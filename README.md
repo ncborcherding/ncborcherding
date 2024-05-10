@@ -3,5 +3,7 @@ I am the Head of Computational Biology at Omniscope. I recieved his MD/PhD from 
 
 More information is available via my [website](https://www.borch.dev/) (including pdfs of my publications).
 
+My Google Scholar profile is available [here](https://scholar.google.com/citations?user=_n4TRuIAAAAJ&hl=en&authuser=1).
+
 ## GitHub Stats
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=ncborcherding&show_icons=true&theme=dracula)
