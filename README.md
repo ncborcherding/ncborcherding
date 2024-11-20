@@ -5,5 +5,15 @@ More information is available via my [website](https://www.borch.dev/) (includin
 
 My Google Scholar profile is available [here](https://scholar.google.com/citations?user=_n4TRuIAAAAJ&hl=en&authuser=1).
 
+### Packages
+
+|              | Github                                                  | Publication  | 
+|--------------|---------------------------------------------------------|--------------|
+| scRepertoire | [link](https://github.com/ncborcherding/scRepertoire)   | [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC7400693/) | 
+| escape       | [link](https://github.com/ncborcherding/escape)         | [link](https://pubmed.ncbi.nlm.nih.gov/33504936/)  | 
+| Trex         | [link](https://github.com/ncborcherding/Trex)           | [link](https://pubmed.ncbi.nlm.nih.gov/39164479/)  | 
+| Ibex         | [link](https://github.com/ncborcherding/Ibex)           | [preprint](https://www.biorxiv.org/content/10.1101/2022.11.09.515787v2.abstract)  | 
+| immApex      | [link ](https://github.com/ncborcherding/immApex)       | in progress  | 
+
 ## GitHub Stats
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=ncborcherding&show_icons=true&theme=dracula)
