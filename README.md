@@ -14,6 +14,7 @@ My Google Scholar profile is available [here](https://scholar.google.com/citatio
 | Trex         | [link](https://github.com/ncborcherding/Trex)           | [link](https://pubmed.ncbi.nlm.nih.gov/39164479/)  | 
 | Ibex         | [link](https://github.com/ncborcherding/Ibex)           | [preprint](https://www.biorxiv.org/content/10.1101/2022.11.09.515787v2.abstract)  | 
 | immApex      | [link ](https://github.com/ncborcherding/immApex)       | in progress  | 
+| bHIVE        | [link ](https://github.com/ncborcherding/bHIVE)         | in progress  |
 
 ## GitHub Stats
 ![Nick's github stats](https://github-readme-stats.vercel.app/api?username=ncborcherding&show_icons=true&theme=dracula)
