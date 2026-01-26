@@ -44,7 +44,7 @@ I build R/Bioconductor packages for single-cell immune analysis:
 <td align="center">
 <a href="https://github.com/BorchLab/Trex"><b>Trex</b></a><br>
 <sub>TCR deep learning</sub><br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/39164479/"><img src="https://img.shields.io/badge/Cell_Rep_Methods-2024-blue?style=flat-square"></a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/39164479/"><img src="https://img.shields.io/badge/Nat_Imm-2024-blue?style=flat-square"></a>
 </td>
 <td align="center">
 <a href="https://github.com/BorchLab/Ibex"><b>Ibex</b></a><br>
