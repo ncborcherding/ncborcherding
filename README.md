@@ -54,7 +54,7 @@ I build R/Bioconductor packages for single-cell immune analysis:
 </tr>
 </table>
 
-**In development:** [immApex](https://github.com/BorchLab/immApex) · [immReferent](https://github.com/BorchLab/immReferent) · [deepMatchR](https://github.com/BorchLab/deepMatchR) · [bHIVE](https://github.com/BorchLab/bHIVE)
+**In development:** [immApex](https://github.com/BorchLab/immApex) · [immReferent](https://github.com/BorchLab/immReferent) · [immLynx](https://github.com/BorchLab/immLynx) · [immGLIPH](https://github.com/BorchLab/immGLIP) · [deepMatchR](https://github.com/BorchLab/deepMatchR) · [bHIVE](https://github.com/BorchLab/bHIVE)
 
 ---
 
