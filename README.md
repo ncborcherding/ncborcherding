@@ -39,7 +39,7 @@ I build R/Bioconductor packages for single-cell immune analysis:
 <td align="center">
 <a href="https://github.com/BorchLab/escape"><b>escape</b></a><br>
 <sub>Gene set enrichment</sub><br>
-<a href="https://pubmed.ncbi.nlm.nih.gov/33504936/"><img src="https://img.shields.io/badge/Nat_Comm-2021-blue?style=flat-square"></a>
+<a href="https://pubmed.ncbi.nlm.nih.gov/33504936/"><img src="https://img.shields.io/badge/Comm_Bio-2021-blue?style=flat-square"></a>
 </td>
 <td align="center">
 <a href="https://github.com/BorchLab/Trex"><b>Trex</b></a><br>
