@@ -6,9 +6,7 @@
 
 Washington University · Department of Pathology & Immunology
 
-[![Website](https://img.shields.io/badge/Website-borch.dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.borch.dev/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_n4TRuIAAAAJ&hl=en&authuser=1)
-[![Lab](https://img.shields.io/badge/Lab-BorchLab-purple?style=flat-square&logo=github&logoColor=white)](https://github.com/BorchLab)
+[![Website](https://img.shields.io/badge/Website-borch.dev-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://www.borch.dev/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=_n4TRuIAAAAJ&hl=en&authuser=1) [![Lab](https://img.shields.io/badge/Lab-BorchLab-purple?style=flat-square&logo=github&logoColor=white)](https://github.com/BorchLab)
 
 </div>
 
