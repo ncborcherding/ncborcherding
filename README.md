@@ -49,10 +49,15 @@ I build R/Bioconductor packages for single-cell immune analysis:
 <sub>BCR deep learning</sub><br>
 <a href="https://www.biorxiv.org/content/10.1101/2022.11.09.515787v2.abstract"><img src="https://img.shields.io/badge/bioRxiv-preprint-red?style=flat-square"></a>
 </td>
+<td align="center">
+<a href="https://github.com/BorchLab/immApex"><b>Ibex</b></a><br>
+<sub>BCR deep learning</sub><br>
+<a href="https://www.biorxiv.org/content/10.64898/2026.05.04.722749v1.abstract"><img src="https://img.shields.io/badge/bioRxiv-preprint-red?style=flat-square"></a>
+</td>
 </tr>
 </table>
 
-**In development:** [immApex](https://github.com/BorchLab/immApex) · [immReferent](https://github.com/BorchLab/immReferent) · [immLynx](https://github.com/BorchLab/immLynx) · [immGLIPH](https://github.com/BorchLab/immGLIP) · [deepMatchR](https://github.com/BorchLab/deepMatchR) · [bHIVE](https://github.com/BorchLab/bHIVE)
+**In development:** [immReferent](https://github.com/BorchLab/immReferent) · [immLynx](https://github.com/BorchLab/immLynx) · [immGLIPH](https://github.com/BorchLab/immGLIPH) · [deepMatchR](https://github.com/BorchLab/deepMatchR) · [bHIVE](https://github.com/BorchLab/bHIVE)
 
 ---
 
