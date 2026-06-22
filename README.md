@@ -50,8 +50,8 @@ I build R/Bioconductor packages for single-cell immune analysis:
 <a href="https://www.biorxiv.org/content/10.1101/2022.11.09.515787v2.abstract"><img src="https://img.shields.io/badge/bioRxiv-preprint-red?style=flat-square"></a>
 </td>
 <td align="center">
-<a href="https://github.com/BorchLab/immApex"><b>Ibex</b></a><br>
-<sub>BCR deep learning</sub><br>
+<a href="https://github.com/BorchLab/immApex"><b>immApex</b></a><br>
+<sub>Immune receptor featurization</sub><br>
 <a href="https://www.biorxiv.org/content/10.64898/2026.05.04.722749v1.abstract"><img src="https://img.shields.io/badge/bioRxiv-preprint-red?style=flat-square"></a>
 </td>
 </tr>
