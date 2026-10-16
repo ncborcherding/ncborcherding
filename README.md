@@ -23,8 +23,6 @@ I work at the intersection of **computational biology** and **immunology**, deve
 
 ---
 
-### Software
-
 I build R/Bioconductor packages for single-cell immune analysis:
 
 <table>
@@ -49,15 +47,27 @@ I build R/Bioconductor packages for single-cell immune analysis:
 <sub>BCR deep learning</sub><br>
 <a href="https://www.biorxiv.org/content/10.1101/2022.11.09.515787v2.abstract"><img src="https://img.shields.io/badge/bioRxiv-preprint-red?style=flat-square"></a>
 </td>
+</tr>
+<tr>
 <td align="center">
 <a href="https://github.com/BorchLab/immApex"><b>immApex</b></a><br>
 <sub>Immune receptor featurization</sub><br>
 <a href="https://www.biorxiv.org/content/10.64898/2026.05.04.722749v1.abstract"><img src="https://img.shields.io/badge/bioRxiv-preprint-red?style=flat-square"></a>
 </td>
+<td align="center">
+<a href="https://github.com/BorchLab/immLynx"><b>immLynx</b></a><br>
+<sub>R–Python bridge for TCR tools</sub><br>
+<a href="https://doi.org/10.3389/fimmu.2026.1916535"><img src="https://img.shields.io/badge/Front_Immunol-2026-blue?style=flat-square"></a>
+</td>
+<td align="center">
+<a href="https://github.com/BorchLab/immGLIPH"><b>immGLIPH</b></a><br>
+<sub>TCR specificity grouping</sub><br>
+<a href="https://doi.org/10.3389/fimmu.2026.1916535"><img src="https://img.shields.io/badge/Front_Immunol-2026-blue?style=flat-square"></a>
+</td>
 </tr>
 </table>
 
-**In development:** [immReferent](https://github.com/BorchLab/immReferent) · [immLynx](https://github.com/BorchLab/immLynx) · [immGLIPH](https://github.com/BorchLab/immGLIPH) · [deepMatchR](https://github.com/BorchLab/deepMatchR) · [bHIVE](https://github.com/BorchLab/bHIVE)
+**In development:** [immReferent](https://github.com/BorchLab/immReferent) · [deepMatchR](https://github.com/BorchLab/deepMatchR) · [bHIVE](https://github.com/BorchLab/bHIVE)
 
 ---
 
